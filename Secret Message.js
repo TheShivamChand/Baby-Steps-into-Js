@@ -30,4 +30,4 @@ secretMessage.splice(6,5,'know');	//Used to slice the array elements and change 
 
 console.log(secretMessage);
 
-console.log(secretMessage.join(' '));
+console.log(secretMessage.join(' ')); //joins the array as a single strings
